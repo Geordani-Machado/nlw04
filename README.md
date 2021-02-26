@@ -1,18 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Nlw04
+## Nlw04 <br>
+<img src="https://imgur.com/Kv5PZAY.png"/>
+<br>
 
-First, run the development server:
+baixe ou clone o projeto.<br>
+digite yarn ou npm para baixar as dependencias do projeto. <br>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 
 licença MIT. 💜
